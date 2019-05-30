@@ -28,8 +28,8 @@ If you need to embed code, Jekyll also offers powerful support for code snippets
 def print_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print_hi('Emily')
+#=> prints 'Hi, Emily!' to STDOUT.
 {% endhighlight %}
 
 Happy blogging!
