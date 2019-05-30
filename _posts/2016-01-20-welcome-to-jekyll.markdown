@@ -1,14 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-01-20 17:41:23 -0600
-categories: jekyll update
+title:  "Blastoff"
+date:   2019-05-30 11:46:23 -0600
+categories: blog post beginning first alpha
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Start-up Notes:
 
-Jekyll also offers powerful support for code snippets:
+This is my first blog post using this framework, and others are free to grab this and use it to build out their own blogs as well. There are a few rules to go by as you build out your blog!
+
+Once you've cloned [this repository]:
+
+1. You’ll begin adding new posts in the `_posts` directory. 
+
+2. In order to view live changes, run `jekyll serve`, which launches a web server.
+
+3. Every new post must follow the convention `YYYY-MM-DD-name-of-post.ext` and include the necessary front matter. Take note of this post and copy it until you remember the formula.
+
+If you need to embed code, Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -18,8 +27,6 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
