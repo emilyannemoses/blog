@@ -12,7 +12,7 @@ I'm a world traveler. I've lived in both Egypt 🇪🇬 and Guatemala 🇬🇹, 
 
 I consider myself a tinkerer. I love diving into a project or technology and just "figuring it out" as I go. You'll find me reaching out to my web developer friends on [Twitter] for tips and tricks. Connect with me and let's have coffee! I'm always up for a good chat ☕️.
 
-I'm also an artist 👩🏽‍🎨 and woodworker, and you can see some of my work on [Instagram].
+I'm also an artist 👩🏽‍🎨, woodworker, and nature lover. You can see some of my work on [Instagram].
 
 [Twitter]: https://twitter.com/emilyannemoses
 [Instagram]: https://www.instagram.com/emilyannemoses/
