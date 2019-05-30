@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my new blog"
 date:   2019-05-30 11:46:23 -0600
-categories: blog post beginning first alpha
+categories: alpha post
 ---
 
 Start-up Notes:
@@ -30,3 +30,4 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
+[this repository]: https://github.com/eamoses/blog
