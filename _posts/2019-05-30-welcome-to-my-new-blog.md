@@ -7,15 +7,17 @@ categories: alpha post
 
 Start-up Notes:
 
-This is my first blog post using this framework, and others are free to grab this and use it to build out their own blogs as well. There are a few rules to go by as you build out your blog!
+This is my first blog post using this framework, and y'all are free to grab this and use it to build out your own blog as well.
+
+There are a few rules to go by as you build out your blog!
 
 Once you've cloned [this repository]:
 
 1. You’ll begin adding new posts in the `_posts` directory. 
 
-2. In order to view live changes, run `jekyll serve`, which launches a web server.
+2. In order to view live changes, run `jekyll serve`, which launches a web server. Use the [Jekyll docs][jekyll-docs] to get up and running with Jekyll on your machine.
 
-3. Every new post must follow the convention `YYYY-MM-DD-name-of-post.ext` and include the necessary front matter. Take note of this post and copy it until you remember the formula.
+3. Every new post must follow the convention `YYYY-MM-DD-name-of-post.md` and include the necessary front matter (the content listed in the top of the post). Take note of this post and copy it until you remember the formula.
 
 If you need to embed code, Jekyll also offers powerful support for code snippets:
 
