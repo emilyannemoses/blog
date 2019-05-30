@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blastoff"
+title:  "Welcome to my new blog"
 date:   2019-05-30 11:46:23 -0600
 categories: blog post beginning first alpha
 ---

@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Emily, a software engineer and human.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Originally from Massachusetts, I moved to the San Francisco Bay Area to escape the snow ☃️. That's when I began learning the art of programming and working as a developer. I've since decided to move to Austin, Texas for a change of pace. I love Austin! 🌵
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm a world traveler. I've lived in both Egypt 🇪🇬 and Guatemala 🇬🇹, and my last trip was to the beautiful island of Cuba 🇨🇺. 
+
+I consider myself a tinkerer. I love diving into a project or technology and just "figuring it out" as I go. You'll find me reaching out to my web developer friends on [Twitter] for tips and tricks. Connect with me and let's have coffee! I'm always up for a good chat ☕️.
+
+I'm also an artist 👩🏽‍🎨 and woodworker, and you can see some of my work on [Instagram].
+
+[Twitter]: https://twitter.com/emilyannemoses
+[Instagram]: https://www.instagram.com/emilyannemoses/
+[Portfolio]: https://emilyannemoses.com/
