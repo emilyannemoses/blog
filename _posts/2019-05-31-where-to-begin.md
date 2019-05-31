@@ -9,7 +9,7 @@ Wherever you begin, there are tenets of learning that I've observed are benefici
 
 * Ask yourself *why* you want to learn to code.
 
-    * Do you simply need to make a higher salary? Are you unsatisfied with your current career? Do you crave bigger challenges? Do you enjoy working with computers? DO you really like sitting on your butt for hours at a time? 
+    * Do you simply need to make a higher salary? Are you unsatisfied with your current career? Do you crave bigger challenges? Do you enjoy working with computers? Do you really like sitting on your butt for hours at a time? 
     
     * The best advice I've ever recieved is to work hard at what I enjoy, because the money will follow. "The money" is relative. In the world we live in, being a software developer will earn you more than, say, interpretive water dancing. There are pros and cons to going into a career "to make more money" - sometimes it's not all its cracked up to be. There are aspects you may despise. That's why I highly suggest you write a list of all of the reasons you want to start - be honest with yourself! Include all of the things you will potentially not enjoy. Pros and cons lists are the best way to begin to make any big decision.
 
