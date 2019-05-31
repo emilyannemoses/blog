@@ -7,6 +7,14 @@ Everyone has to start somewhere. Whether you've been using computers your whole 
 
 Wherever you begin, there are tenets of learning that I've observed are beneficial for not only learning to code, but learning any new skill, at any age, throughout life.
 
+* Ask yourself *why* you want to learn to code.
+
+    * Do you simply need to make a higher salary? Are you unsatisfied with your current career? Do you crave bigger challenges? Do you enjoy working with computers? DO you really like sitting on your butt for hours at a time? 
+    
+    * The best advice I've ever recieved is to work hard at what I enjoy, because the money will follow. "The money" is relative. In the world we live in, being a software developer will earn you more than, say, interpretive water dancing. There are pros and cons to going into a career "to make more money" - sometimes it's not all its cracked up to be. There are aspects you may despise. That's why I highly suggest you write a list of all of the reasons you want to start - be honest with yourself! Include all of the things you will potentially not enjoy. Pros and cons lists are the best way to begin to make any big decision.
+
+***
+
 * Observe the reality of where you are right now - what is your true skill level?
 
     * Be honest about this! Don't kid yourself. Write down in your own diary or blog what you *do* know. Write what you know that you don't know, and write down insecurities you have about both. Also, write down questions like "I've heard this word *JavaScript* used, I'd like to figure out what it means / what it does"  This writing is for you, so be vulerable.
@@ -25,7 +33,7 @@ Wherever you begin, there are tenets of learning that I've observed are benefici
 
 ***
 
-* Learn to Google
+* Learn to Google.
 
     * Learning to effectively Google errors and coding questions is what a good developer of any technology does. We're researchers, not encyclopedias. Nobody is going to expect you to have all of the answers in your head, so you have to get really good at knowing where and how to get those answers FAST. I suggest thoroughly reading [this - especially the Expert Search Tips at the end][google].
 
@@ -37,11 +45,10 @@ Wherever you begin, there are tenets of learning that I've observed are benefici
 
 ***
 
-* Get hobbies
+* Get hobbies.
 
     * Once you become enamoured with coding you won't want to leave your computer! Some say it is addictive because there is a constant loop of problem-having to problem solving. For the love of all that is good, go for a walk. Go running, go to a coffee shop and smell the flowers. Start a garden. Get a puppy. Interact with friends and family. Do something that will take you away from your computer!
 
-***
 
 I'm sure you didn't expect the first blog post about learning to code to have zero code in it, but these tenets are extremely important. Just as important as the actual code.
 
