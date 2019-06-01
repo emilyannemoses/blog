@@ -15,6 +15,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://eamoses.github.io/" # the base hostname & protocol for your site
 twitter_username: emilyannemoses
 github_username:  eamoses
+instagram_username: emilyannemoses
 
 # Build settings
 markdown: kramdown
