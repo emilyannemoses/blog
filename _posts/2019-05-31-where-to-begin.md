@@ -17,7 +17,7 @@ Wherever you begin, there are tenets of learning that I've observed are benefici
 
 * Observe the reality of where you are right now - what is your true skill level?
 
-    * Be honest about this! Don't kid yourself. Write down in your own diary or blog what you *do* know. Write what you know that you don't know, and write down insecurities you have about both. Also, write down questions like "I've heard this word *JavaScript* used, I'd like to figure out what it means / what it does"  This writing is for you, so be vulnerable.
+    * Be honest about this! Write a list of what you *do* know in your own diary or blog. Write what you know that you don't know, and write down insecurities you have about both. Also, write down questions like "I've heard this word *JavaScript* used, I'd like to figure out what it means / what it does"  This writing is for you, so be vulnerable.
 
 ***
 
@@ -47,7 +47,7 @@ Wherever you begin, there are tenets of learning that I've observed are benefici
 
 * Get hobbies.
 
-    * Once you become enamoured with coding you won't want to leave your computer! Some say it is addictive because there is a constant loop of problem-having to problem solving. For the love of all that is good, go for a walk. Go running, go to a coffee shop and smell the flowers. Start a garden. Get a puppy. Interact with friends and family. Do something that will take you away from your computer!
+    * Once you become enamoured with coding you won't want to leave your computer! Some say it is addictive because there is a constant loop of problem-having to problem solving. For the love of all that is good, go for a walk! Go running! Go to a coffee shop. Start a garden. Get a puppy. Interact with friends and family. Do something that will take you away from your computer!
 
 
 I'm sure you didn't expect the first blog post about learning to code to have zero code in it, but these tenets are extremely important. Just as important as the actual code.
