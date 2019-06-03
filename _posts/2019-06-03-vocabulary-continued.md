@@ -3,6 +3,8 @@ layout: post
 title:  "Vocabulary continued"
 ---
 
+These vocabulary words will focus mostly programming language specifics.
+
 - Code Syntax
     - Syntax errors
 - Program design
