@@ -5,7 +5,7 @@ title:  "Vocabulary"
 
 I'd never travel to an other country without learning the basic vocabulary of the host language, therefore I'd never begin teaching you to code without first giving you necessary words to navigate our new world.
 
-This will become long as I add words and edit definitions, so it might be split up into two blog posts in the future!
+This list will go over definitions of general computer hardware and software concepts. Part two will review more specific programming language terminology.
 
 - hardware
     - central processing unit (CPU) - microprocessors
