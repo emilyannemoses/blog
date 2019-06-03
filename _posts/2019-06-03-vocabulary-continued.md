@@ -33,7 +33,9 @@ Vocabulary words focus on programming language terminology.
 - <details>
     <summary>Data types: The grammar of a programming language.</summary>
     <br>
-        Basic Types: These types are based on the Python programming language. There are other types and more complex types in other languages, but this is an excellent place to start.
+        Basic Types: These type names are based on the Python programming language. These types may go by different names or behave differently in other programming languages, but this is an excellent place to start.
+
+        Different data types take up different amounts of space in memory. Primitive data types such as numbers, single character strings, and booleans take up less space than object data (programmer-created data) such as lists, arrays, maps, functions, methods and so on.
     <br><br>
     </details>
     - `NoneType`
