@@ -38,7 +38,7 @@ Vocabulary words focus on programming language terminology.
         Different data types take up different amounts of space in memory. Primitive data types such as numbers, single character strings, and booleans take up less space than object data (programmer-created data) such as lists, arrays, maps, functions, methods and so on.
     <br><br>
     </details>
-    - `NoneType`
+    - `NoneType`: None or null
     - `Int`: integer
     - `bool`: boolean or True/False
     - `float`: decimal or floating point number
