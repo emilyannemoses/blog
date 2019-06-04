@@ -56,4 +56,4 @@ These vocabulary words focus on programming language terminology. This list will
     - modules
 - mutable: a mutable object, it can be modified after it is created.
 - immutable: an immutable object is an object whose state cannot be modified after it is created.
-    - Values assigned to certain data types can be classified as either mutable or immutable. These rules dictate how prorammers must use them in writing software.
+    - Values assigned to certain data types exist as either mutable or immutable. These rules dictate how prorammers must use them in writing software.
