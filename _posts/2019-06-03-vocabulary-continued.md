@@ -8,26 +8,32 @@ Vocabulary words focus on programming language terminology.
 - <details>
     <summary>Code Syntax</summary>
     <br>
-        Text here
+        Code syntax are a set of rules that must strictly be followed when writing a program. Syntax is language-specific. The syntax rules dictaet how key words, oeprators and various punctuation characters must be used in a program.
     <br><br>
     </details>
     - <details>
         <summary>Syntax errors</summary>
         <br>
-            Text here
+            A syntax error is a mistake such as a misspelled key word, a missing punctuation character, or the incorrect use of an operator. Each programming language will have its own way of alerting the developer of a syntax error.
         <br><br>
         </details>
 - <details>
-    <summary>Program design</summary>
+    <summary>Program Development Cycle</summary>
     <br>
-        Text here
+        The steps to the development cycle of a software program:
+        <br><br>
+        - Design the program<br>
+        - Write the tests<br>
+        - Write the code to the tests<br>
+        - Correct syntax errors<br>
+        - Test the program<br>
+        - Correct logic erros<br>
     <br><br>
     </details>
-    - Source code
     - <details>
         <summary>Source code</summary>
         <br>
-            Text here
+            The code that is written for a particular piece of software.
         <br><br>
         </details>
 - <details>
@@ -49,9 +55,3 @@ Vocabulary words focus on programming language terminology.
     - `dict`: map or object
     - functions, methods and classes
     - modules
-- <details>
-    <summary>Strongly typed and weakly typed programming languages</summary>
-    <br>
-        Text here
-    <br><br>
-    </details>
