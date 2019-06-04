@@ -145,7 +145,7 @@ This list will go over definitions of general computer hardware and software con
 - <details>
     <summary>High Level Languages</summary>
     <br>
-    High level programming languages are the languages we use most often today to write software programs. The following list is some of the most popular.
+    High level programming languages are the languages we use most often today to write software programs. The following list are some of the most popular today.
     <br><br>
     </details>
     - Python
