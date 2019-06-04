@@ -3,7 +3,9 @@ layout: post
 title:  "Hello world"
 ---
 
-A "Hello world" program is known as the most basic program one can create in any programming language. In this post, I'm going to show you how to create a "Hello world" program in Python, JavaScript, Ruby, C++ and Go.
+A "Hello world" program is known as the most basic program one can create in any programming language. In this post, I'm going to show you how to create a "Hello world" program in Python, JavaScript and Ruby. 
+
+The next installment will be the "Hello world" program in C++ and Go.
 
 <h1>Python</h1>
 
@@ -52,7 +54,7 @@ Congratulations! You've written your first program in Ruby!
 
 <h1>JavaScript</h1>
 
-JavaScript, similarly to Python and Ruby, as an interpreter called Node.  We can [download node here][dowonload-node].
+JavaScript, similarly to Python and Ruby, as an interpreter called Node.  We can [download node here][download-node]
 
 Open your operating system's terminal emulator and type `node`
 
@@ -64,7 +66,7 @@ It should print Hello world to the console.
 
 Congratulations, you've written your first program in JavaScript using Node!
 
-BUT LET'S NOT STOP THERE!
+<h4>BUT LET'S NOT STOP THERE!</h4>
 
 Since JavaScript is a browser-based language, that is, it is interpreted by every web browser in existence, we can print Hello world directly to our browser.
 
@@ -87,15 +89,14 @@ Try typing this:
 <pre>document.write("Hello world")</pre>
 Press enter, and check out the browser page.  It should be a blank page with Hello world on it!
 
-You just manipulated the DOM (Domcument Object Model) with JavaScript using the JS Console. Congratulations!
-
-<h1>C++</h1>
-
-<h1>Go</h1>
-<h4>(aka Golang)</h4>
+You just manipulated the DOM (Document Object Model) with JavaScript using the JS Console. Congratulations!
 
 [download-python]: https://www.python.org/downloads/release/python-373/
+
 [download-vscode]: https://code.visualstudio.com/download
+
 [download-ruby]: https://www.ruby-lang.org/en/documentation/installation/
+
 [download-node]: https://nodejs.org/en/download/
+
 [download-chrome]: https://www.google.com/chrome/browser/
