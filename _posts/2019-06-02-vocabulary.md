@@ -78,12 +78,6 @@ This list will go over definitions of general computer hardware and software con
     <br><br>
     </details>
     - <details>
-        <summary>0s and 1s, on and off</summary>
-        <br>
-        This is how you dropdown.
-        <br><br>
-        </details>
-    - <details>
         <summary>bytes</summary>
         <br>
         Memory within your computer is divided into small storage locations called bytes. One byte can store one letter of the alphabet, or one small number. Todays computers have billions of bytes of memory.
@@ -97,7 +91,7 @@ This list will go over definitions of general computer hardware and software con
         Bits represent a binary digit. 8 bits are equal to 1 byte.
         <br><br>
         A binary number looks something like this:
-        10011101 - there are eight columns and in each column is a 0 or a 1. Each column has a numerical value that we can use to tell what real number it is.
+        10011101 - there are eight columns and in each column is a 0 or a 1. Each column has a numerical value that we can use to calculate what integer it is.
         <br><br>
         128 | 64 &nbsp;| 32 &nbsp;| 16 &nbsp;&nbsp;|&nbsp; 8 &nbsp;|&nbsp; 4 &nbsp;| 2 &nbsp;| 1<br>
         &nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;|&nbsp;1&nbsp;&nbsp;&nbsp;|&nbsp;1&nbsp;&nbsp;&nbsp;|&nbsp;0&nbsp;&nbsp;|&nbsp;1
@@ -111,43 +105,47 @@ This list will go over definitions of general computer hardware and software con
     - <details>
         <summary>ASCII</summary>
         <br>
-        ASCII stands for the American Standard Code for Information Interchange. it is a set of 128 numeric codes that represent the English letters, punctuation marks and other characters. The ASCII code for uppercase A is 65. So, when you type an uppercase A on your computer keyboard, the number 65 is stored in memory as binary number 01000001.
+        ASCII stands for the American Standard Code for Information Interchange. It is a set of 128 numeric codes that represent the English letters, punctuation marks and other characters. The ASCII code for uppercase A is 65. So, when you type an uppercase A on your computer keyboard, the number 65 is stored in memory as binary number 01000001.
+        <br><br>
+        In order to know which code is assigned to which character, there are plenty of charts online you can refert to. Simply Google "ASCII Table"
         <br><br>
         </details>
     - <details>
-        <summary>converting negative numbers and real numbers (floating point) to binary format</summary>
+        <summary>converting negative numbers and real numbers to binary</summary>
         <br>
-        This is how you dropdown.
+        Negative numbers and real numbers (such as 3.14159) cannot be represented using the simple binary numbering technique.
+        <br><br>
+        Computers use encoding schemes along with the binary numbering system. Negative numbers are encoded using a technique known as <i>two's complement</i> and real numbers are encoded in <i>floating point notation</i>. Since these are used to convert these numbers to binary format, software developers have to account for floating point number precision problems in their programs.
         <br><br>
         </details>
 - <details>
     <summary>CPU lifecycle</summary>
     <br>
-    This is how you dropdown.
+    Known as the <i>fetch-decode-execute cycle</i>, the lifecycle begins when the CPU executes instructions in a software program and it repeats these steps for each instruction in the software pogram.
     <br><br>
     </details>
     - <details>
         <summary>Fetch</summary>
         <br>
-        This is how you dropdown.
+        The first step is to fetch, or read, the next instructino from memory into the CPU.
         <br><br>
         </details>
     - <details>
         <summary>Decode</summary>
         <br>
-        This is how you dropdown.
+        In this step the CPU decodes the instruction that was just fetched from memory, to determine which operation it should perform.
         <br><br>
         </details>
     - <details>
         <summary>Execute</summary>
         <br>
-        This is how you dropdown.
+        The last step in the cycle is to execute, or perform, the operation.
         <br><br>
         </details>
 - <details>
     <summary>High Level Languages</summary>
     <br>
-    This is how you dropdown.
+    High level programming languages are the languages we use most often today to write software programs. The following list is some of the most popular.
     <br><br>
     </details>
     - Python
@@ -157,10 +155,14 @@ This list will go over definitions of general computer hardware and software con
     - JavaScript
 - Low Level Languages
     - Assembly Languages: each brand of CPU (ex: IBM, Intel) has its own assembly language which is assembled into machine language
+    - A language is considered low-level because it is so close in nature to machine language. Programmers do not write programs in low-level languages.
 - <details>
     <summary>Compilers and Interpreters</summary>
     <br>
-        Compiled and interpreted programming languages
+        Because the CPU understands only machine language instructions, programs that are written in high level languages must be translated into machine language. Depending on the language, a compiler or an interpreter is necessary to make the translation.
+        <br><br>
+        A <i>compiler</i> translates a high level language into a separate machine language program or file, that file can then be executed.
+        <br><br>
+        An <i>interpreter</i> translates and executes high-level code and the conversion to machine language occurs "behind the scenes" as the program is being executed.
     <br><br>
     </details>
-    - Dynamically typed and statically typed programming langauges
