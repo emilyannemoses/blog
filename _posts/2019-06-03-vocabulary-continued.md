@@ -3,7 +3,7 @@ layout: post
 title:  "Vocabulary continued"
 ---
 
-Vocabulary words focus on programming language terminology.
+These vocabulary words focus on programming language terminology. This list will grow as we learn.
 
 - <details>
     <summary>Code Syntax</summary>
