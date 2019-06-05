@@ -7,7 +7,7 @@ In this installment of "Hello world" we'll be learning how to do this simple exe
 
 The reason I split this up into two parts is because JavaScript, Ruby and Python can all be interpreted.  C++ and Go are compiled. This means we have more overhead to get started with coding in C++ and Go, even to just print a simple "Hello world"
 
-C++ was created by Microsoft and is used on many enterprise software programs. Go (aka Golang) was created by Google and is very popular in the start-up world since it's open-source (free!)
+C++ was created by Microsoft and is used on many enterprise software programs. Go (aka Golang) was created by Google and is very popular since it's open-source (free!)
 
 <h1>C++</h1>
 
