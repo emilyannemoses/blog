@@ -56,7 +56,7 @@ This list will go over definitions of general computer hardware and software con
     - <details>
         <summary>system software</summary>
         <br>
-        Operating systems such as Windows 10 or OSX are examples of system software. It's the most fundimental set of programs on a computer which controls the internal operations of the computer's hardware and manages all of the devices connected to the computer.
+        Operating systems such as Windows 10 or OSX are examples of system software. It's the most fundamental set of programs on a computer which controls the internal operations of the computer's hardware and manages all of the devices connected to the computer.
         <br><br>
         Utility programs perform a specialized task for the computer, such as a virus scanner.
         <br>
@@ -107,7 +107,7 @@ This list will go over definitions of general computer hardware and software con
         <br>
         ASCII stands for the American Standard Code for Information Interchange. It is a set of 128 numeric codes that represent the English letters, punctuation marks and other characters. The ASCII code for uppercase A is 65. So, when you type an uppercase A on your computer keyboard, the number 65 is stored in memory as binary number 01000001.
         <br><br>
-        In order to know which code is assigned to which character, there are plenty of charts online you can refert to. Simply Google "ASCII Table"
+        In order to know which code is assigned to which character, there are plenty of charts online you can refer to. Simply Google "ASCII Table"
         <br><br>
         </details>
     - <details>
