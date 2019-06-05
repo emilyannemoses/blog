@@ -61,3 +61,6 @@ These vocabulary words focus on programming language terminology. This list will
 Happy coding!
 
 E
+<hr>
+<h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
+<h5>Use the Twitter thread below to get in touch with me regarding this blog post:</h5>

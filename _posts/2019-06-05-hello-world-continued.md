@@ -154,6 +154,9 @@ Congratulations! You've written and run your first C# Hello world program!
 Happy coding!
 
 E
+<hr>
+<h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
+<h5>Use the Twitter thread below to get in touch with me regarding this blog post:</h5>
 
 [vscode]: https://eamoses.github.io/blog/2019/06/06/vs-code.html
 [download-dotnet]: https://download.visualstudio.microsoft.com/download/pr/b4e6bfc6-1843-4154-8b5a-6bd85702df16/270d40a3ede0b72d3f0b801bf103ea96/dotnet-sdk-2.2.107-osx-gs-x64.pkg

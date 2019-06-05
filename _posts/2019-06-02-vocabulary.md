@@ -170,3 +170,9 @@ This list will go over definitions of general computer hardware and software con
 Happy coding!
 
 E
+<hr>
+<h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
+<h5>Use the Twitter thread below to get in touch with me regarding this blog post:</h5>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting into computer science? Here&#39;s some vocabulary I found useful to know when getting started:<a href="https://t.co/8X2ATcx8HV">https://t.co/8X2ATcx8HV</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1136357101767417856?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

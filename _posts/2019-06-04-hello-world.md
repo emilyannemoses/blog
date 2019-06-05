@@ -110,6 +110,9 @@ You just manipulated the DOM (Document Object Model) with JavaScript using the J
 Happy coding!
 
 E
+<hr>
+<h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
+<h5>Use the Twitter thread below to get in touch with me regarding this blog post:</h5>
 
 [download-python]: https://www.python.org/downloads/release/python-373/
 

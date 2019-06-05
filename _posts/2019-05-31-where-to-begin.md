@@ -37,6 +37,8 @@ Wherever you begin, there are tenets of learning that I've observed are benefici
 
     * Learning to effectively Google errors and coding questions is what a good developer of any technology does. We're researchers, not encyclopedias. Nobody is going to expect you to have all of the answers in your head, so you have to get really good at knowing where and how to get those answers FAST. I suggest thoroughly reading [this - especially the Expert Search Tips at the end][google].
 
+    * DISCLAIMER: I give a lot of information in my blog posts, but it's impossible to cover everything. That's why this particular tenet is so important. You have to be responsible for your own learning up to a point - if you're reading instructions from one of my blog posts and they don't make sense, by all means, reach out to me via email or Twitter!  There will be a link at the bottom of every blog post. That being said, if you're not understanding a concept or experiencing errors, do your best to Google and read as much as you can from other sources.
+
 ***
 
 * Stay vulnerable.
@@ -55,5 +57,12 @@ I'm sure you didn't expect the first blog post about learning to code to have ze
 Happy coding!
 
 E
+
+<hr>
+<h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
+<h5>Use the Twitter thread below to get in touch with me regarding this blog post:</h5>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My own personal tenets of learning to code! Where to start, how to start... should you start?<a href="https://t.co/kUyW2FzUtm">https://t.co/kUyW2FzUtm</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1136356367500042240?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [google]: https://support.google.com/websearch/answer/134479?hl=en
