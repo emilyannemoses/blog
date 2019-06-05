@@ -116,11 +116,11 @@ Now we'll create our first directory using `dotnet`. In your terminal emulator, 
 
 Then type: `cd helloWorld`
 
-`helloWorld` is a folder holding your Hello world program files.  Inside of `Program.cs` will be your first Hello world file.
+`helloWorld` is a folder holding your Hello world program files.  Inside of `Program.cs` will be your first Hello world file already written like so:
 
 ```cs
-1    using System;
-2
+1    // A Hello World! program in C#.
+2    using System;
 3    namespace helloWorld
 4    {
 5        class Program
@@ -132,6 +132,24 @@ Then type: `cd helloWorld`
 11        }
 12    }
 ```
+
+Line `1`: Comments, just like comments in the other languages, have to begin with `//` and are not read by the compiler.
+
+Line `2`: Including `using System;` at the beginnig of the program means that we can use the `System` classes and methods (such as `Console.WriteLine()`)
+
+Line `3`: This is the name of our package (folder) that we created in the console earlier.
+
+Line `5`: This is the name of our program file, we could name the file `Hello.cs` if we wanted to, so we'd then have to change this line to `class Hello`. This defines the class to which our Hello world text will execute within.
+
+Line `7`: A C# console application must contain a `Main` method in which control starts and ends. The `Main` method is where you create objects and execute other methods. This is a static method that resides inside a class or a struct. This example resides in a class named `Hello`. We used the `void` keyword which basicaly means we're not using a `return` statement in our Hello world code.
+
+Line `9`: This is where we're using the `System` class package which is built to literally write a string to our console.
+
+Time to execute!
+
+Be sure you're in the `helloWorld` folder and type `dotnet run`
+
+Congratulations! You've written and run your first C# Hello world program!
 
 [vscode]: https://eamoses.github.io/blog/2019/06/06/vs-code.html
 [download-dotnet]: https://download.visualstudio.microsoft.com/download/pr/b4e6bfc6-1843-4154-8b5a-6bd85702df16/270d40a3ede0b72d3f0b801bf103ea96/dotnet-sdk-2.2.107-osx-gs-x64.pkg
