@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Hello world: C++ and Go"
+title:  "Hello world: C#, C++, Go"
 ---
 
-In this installment of "Hello world" we'll be learning how to do this simple execution in both the C++ and Go programming languages.
+In this installment of "Hello world" we'll be learning how to do this simple execution in C#, C++ and Go programming languages.
 
-The reason I split this up into two parts is because JavaScript, Ruby and Python can all be interpreted.  C++ and Go are compiled. This means we have more overhead to get started with coding in C++ and Go, even to just print a simple "Hello world"
+The reason I split this up into two parts is because JavaScript, Ruby and Python can all be interpreted.  C#, C++ and Go are compiled. This means we have more overhead to get started with coding in C#, C++ and Go, even to just print a simple "Hello world".
 
-C++ was created by Microsoft and is used on many enterprise software programs. Go (aka Golang) was created by Google and is very popular since it's open-source (free!)
+C# was created in 2000 by Anders Hejlsberg at Microsoft. C++ was developed by Danish computer scientist Bjarne Stroustrup at Bell Labs. Both languages are used on many enterprise software programs. Go (aka Golang) was created by Google and is very popular since it's open-source (free!)
 
 <h1>C++</h1>
 
@@ -106,4 +106,32 @@ To run your file type `./hello`
 
 Congratulations! You've just written your first Hello world Go program!
 
+<h1>C#</h1>
+
+To compile and run our first C# program, we first have to [download the `.NET` framework program][download-dotnet]
+
+Once you've installed this program, go to your Command Prompt or Terminal and type `dotnet` and you should see information print out on how to use dotnet. 
+
+Now we'll create our first directory using `dotnet`. In your terminal emulator, type the following: `dotnet new console -o helloWorld`
+
+Then type: `cd helloWorld`
+
+`helloWorld` is a folder holding your Hello world program files.  Inside of `Program.cs` will be your first Hello world file.
+
+```cs
+1    using System;
+2
+3    namespace helloWorld
+4    {
+5        class Program
+6        {
+7            static void Main(string[] args)
+8            {
+9                Console.WriteLine("Hello World!");
+10            }
+11        }
+12    }
+```
+
 [vscode]: https://eamoses.github.io/blog/2019/06/06/vs-code.html
+[download-dotnet]: https://download.visualstudio.microsoft.com/download/pr/b4e6bfc6-1843-4154-8b5a-6bd85702df16/270d40a3ede0b72d3f0b801bf103ea96/dotnet-sdk-2.2.107-osx-gs-x64.pkg
