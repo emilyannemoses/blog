@@ -42,6 +42,8 @@ E
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I started a blog using the Jekyll framework! It&#39;s nice looking &amp; easy to use! This is my first post. Feel free to use this guide to build your own blog:<a href="https://t.co/bbYrWlQxKY">https://t.co/bbYrWlQxKY</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1136349624007122945?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<span><a href="https://eamoses.github.io/blog/" style="float:left;">Previous: Home</a><a href="https://eamoses.github.io/blog/2019/05/31/where-to-begin.html" style="float:right;">Next: Where to begin</a></span>
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [installation]: https://jekyllrb.com/docs/installation/
 [this repository]: https://github.com/eamoses/blog

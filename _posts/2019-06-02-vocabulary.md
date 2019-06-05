@@ -176,3 +176,5 @@ E
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting into computer science? Here&#39;s some vocabulary I found useful to know when getting started:<a href="https://t.co/8X2ATcx8HV">https://t.co/8X2ATcx8HV</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1136357101767417856?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<span><a href="https://eamoses.github.io/blog/2019/06/01/who-am-i.html" style="float:left;">Previous: Who I am</a><a href="https://eamoses.github.io/blog/2019/06/03/vocabulary-continued.html" style="float:right;">Next: Vocabulary Continued</a></span>

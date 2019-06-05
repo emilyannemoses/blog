@@ -64,4 +64,6 @@ E
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My own personal tenets of learning to code! Where to start, how to start... should you start?<a href="https://t.co/kUyW2FzUtm">https://t.co/kUyW2FzUtm</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1136356367500042240?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<span><a href="https://eamoses.github.io/blog/alpha/post/2019/05/30/welcome-to-my-new-blog.html" style="float:left;">Previous: Welcome</a><a href="https://eamoses.github.io/blog/2019/06/01/who-am-i.html" style="float:right;">Next: Who I am</a></span>
+
 [google]: https://support.google.com/websearch/answer/134479?hl=en
