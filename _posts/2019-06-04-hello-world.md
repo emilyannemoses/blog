@@ -112,7 +112,7 @@ Happy coding!
 E
 <hr>
 <h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
-<h5>Use the Twitter thread below to get in touch with me regarding this blog post:</h5>
+<h5>Use the Twitter thread below and hashtag <a href="https://twitter.com/hashtag/e4everything?f=tweets&vertical=default&lang=en" target="_blank">#E4Everything</a> to get in touch with me regarding this blog post:</h5>
 
 [download-python]: https://www.python.org/downloads/release/python-373/
 
