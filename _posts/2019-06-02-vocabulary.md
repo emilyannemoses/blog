@@ -166,3 +166,7 @@ This list will go over definitions of general computer hardware and software con
         An <i>interpreter</i> translates and executes high-level code and the conversion to machine language occurs "behind the scenes" as the program is being executed.
     <br><br>
     </details>
+
+Happy coding!
+
+E

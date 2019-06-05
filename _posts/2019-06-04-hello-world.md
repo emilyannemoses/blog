@@ -107,6 +107,10 @@ Press enter, and check out the browser page.  It should be a blank page with Hel
 
 You just manipulated the DOM (Document Object Model) with JavaScript using the JS Console. Congratulations!
 
+Happy coding!
+
+E
+
 [download-python]: https://www.python.org/downloads/release/python-373/
 
 [download-vscode]: https://code.visualstudio.com/download
