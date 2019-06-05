@@ -23,7 +23,9 @@ We start writing Python scripts after the > > > prompt.
 
 Type the following:
 
-<pre>>>> print("Hello world")</pre>
+```python
+>>> print("Hello world")
+```
 
 And press enter.
 
@@ -46,7 +48,10 @@ Now that we've confirmed we have Ruby, we can use IRB which stands for Interacti
 For macOS and Linux users, simply type `irb` into your Terminal or shell. For Windows users, open Interactive Ruby from the Ruby section of your Start Menu.
 
 Now type:
-<pre>puts "Hello world"</pre>
+
+```ruby
+puts "Hello world"
+```
 
 `puts` is just like Python's `print()` statement.
 
@@ -61,7 +66,11 @@ Open your operating system's terminal emulator and type `node`
 This should look familiar!
 
 Now type:
-<pre>console.log("Hello world")</pre>
+
+```javascript
+console.log("Hello world")
+```
+
 It should print Hello world to the console.
 
 Congratulations, you've written your first program in JavaScript using Node!
@@ -78,7 +87,10 @@ A window should open up. Now, at the top of that window you should see an Elemen
 
 Does this look familiar at all?  After the `>` start writing your JavaScript:
 
-<pre>console.log("Hello world")</pre>
+```javascript
+console.log("Hello world")
+```
+
 And press enter.
 
 You should see Hello world printed to that Console.
@@ -86,7 +98,11 @@ You should see Hello world printed to that Console.
 But, there's a cooler thing we could do!
 
 Try typing this:
-<pre>document.write("Hello world")</pre>
+
+```javascript
+document.write("Hello world")
+```
+
 Press enter, and check out the browser page.  It should be a blank page with Hello world on it!
 
 You just manipulated the DOM (Document Object Model) with JavaScript using the JS Console. Congratulations!
