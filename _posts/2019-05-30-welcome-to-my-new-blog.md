@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my new blog"
 date:   2019-05-30 11:46:23 -0600
-categories: alpha
+categories: alpha post
 ---
 
 This is my first blog post using this framework, and y'all are free to grab this and use it to build out your own blog as well.
