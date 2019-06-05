@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello world"
+title:  "Hello world: Python, Ruby, JavaScript"
 ---
 
 A "Hello world" program is known as the most basic program one can create in any programming language. In this post, I'm going to show you how to create a "Hello world" program in Python, JavaScript and Ruby. 
