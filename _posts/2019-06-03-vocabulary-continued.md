@@ -65,4 +65,7 @@ E
 <h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
 <h5>Use the Twitter thread below and hashtag <a href="https://twitter.com/hashtag/e4everything?f=tweets&vertical=default&lang=en" target="_blank">#E4Everything</a> to get in touch with me regarding this blog post:</h5>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m putting together a list of programming vocabulary that has helped me learn, hopefully it&#39;ll help you too! <a href="https://twitter.com/hashtag/E4Everything?src=hash&amp;ref_src=twsrc%5Etfw">#E4Everything</a><a href="https://t.co/jghgpl3ir3">https://t.co/jghgpl3ir3</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1136663079062777857?ref_src=twsrc%5Etfw">June 6, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <span><a href="https://eamoses.github.io/blog/2019/06/02/vocabulary.html" style="float:left;">Previous: Vocabulary</a><a href="https://eamoses.github.io/blog/2019/06/04/hello-world.html" style="float:right;">Next: Hello world</a></span>
