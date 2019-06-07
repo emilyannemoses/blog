@@ -114,6 +114,10 @@ E
 <h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
 <h5>Use the Twitter thread below and hashtag <a href="https://twitter.com/hashtag/e4everything?f=tweets&vertical=default&lang=en" target="_blank">#E4Everything</a> to get in touch with me regarding this blog post:</h5>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/learntocode?src=hash&amp;ref_src=twsrc%5Etfw">#learntocode</a> - Check out how easy it is to execute <a href="https://twitter.com/hashtag/HelloWorld?src=hash&amp;ref_src=twsrc%5Etfw">#HelloWorld</a> apps in three different languages, <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://twitter.com/hashtag/Ruby?src=hash&amp;ref_src=twsrc%5Etfw">#Ruby</a> and <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <br><br>****<a href="https://twitter.com/hashtag/E4Everything?src=hash&amp;ref_src=twsrc%5Etfw">#E4Everything</a><br>****<a href="https://t.co/U2eO3nOj3y">https://t.co/U2eO3nOj3y</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1136979168024039424?ref_src=twsrc%5Etfw">June 7, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <span><a href="https://eamoses.github.io/blog/2019/06/03/vocabulary-continued.html" style="float:left;">Previous: Vocabulary Continued</a><a href="https://eamoses.github.io/blog/2019/06/05/hello-world-continued.html" style="float:right;">Next: Hello world Continued</a></span>
 
 [download-python]: https://www.python.org/downloads/release/python-373/
