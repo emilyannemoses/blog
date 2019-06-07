@@ -3,11 +3,15 @@ layout: post
 title:  "The Anatomy of Code"
 ---
 
+<h1>
 🚧 WILL BE PUBLISHED JUNE 10, 2019 🚧
+</h1>
 
-- The languages computers communicate in.
-Machine language is the only language that a CPU understands.
-
+<details>
+    <summary>Summary</summary>
+    <br>
+    <strike>The languages computers communicate in.</strike>
+    <strike>Machine language is the only language that a CPU understands.</strike>
 - DATA TYPES - strings, numbers, boolean, arrays, objects(this)
 - VARIABLES - const, let, var
 - LOGICAL OPERATORS - &&, ||, !
@@ -18,6 +22,10 @@ Machine language is the only language that a CPU understands.
 Other: console.log(), .map(), .filter(), .reduce() <—on arrays using “arrow functions”
 - OBJECTS
 - CONSTRUCTOR FUNCTIONS / CLASSES
+    <br><br>
+    </details>
+
+<br><br>
 
 Happy coding!
 
