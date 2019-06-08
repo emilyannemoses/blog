@@ -158,6 +158,10 @@ E
 <h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
 <h5>Use the Twitter thread below and hashtag <a href="https://twitter.com/hashtag/e4everything?f=tweets&vertical=default&lang=en" target="_blank">#E4Everything</a> to get in touch with me regarding this blog post:</h5>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/learntocode?src=hash&amp;ref_src=twsrc%5Etfw">#learntocode</a> - Check out how easy it is to get started with and build <a href="https://twitter.com/hashtag/HelloWorld?src=hash&amp;ref_src=twsrc%5Etfw">#HelloWorld</a> apps in three different languages, C++, C#, and <a href="https://twitter.com/hashtag/GoLang?src=hash&amp;ref_src=twsrc%5Etfw">#GoLang</a> <a href="https://twitter.com/hashtag/E4Everything?src=hash&amp;ref_src=twsrc%5Etfw">#E4Everything</a> <a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a><br>---<a href="https://t.co/WbWMmgSmOb">https://t.co/WbWMmgSmOb</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1137406432783900672?ref_src=twsrc%5Etfw">June 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <span><a href="https://eamoses.github.io/blog/2019/06/04/hello-world.html" style="float:left;">Previous: Hello world</a><a href="https://eamoses.github.io/blog/2019/06/06/vs-code.html" style="float:right;">Next: VS Code</a></span>
 
 [vscode]: https://eamoses.github.io/blog/2019/06/06/vs-code.html
