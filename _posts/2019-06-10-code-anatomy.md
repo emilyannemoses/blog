@@ -40,4 +40,8 @@ E
 <h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
 <h5>Use the Twitter thread below and hashtag <a href="https://twitter.com/hashtag/e4everything?f=tweets&vertical=default&lang=en" target="_blank">#E4Everything</a> to get in touch with me regarding this blog post:</h5>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just like the human body, programming languages also have anatomy!  <a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://twitter.com/hashtag/learntocode?src=hash&amp;ref_src=twsrc%5Etfw">#learntocode</a> <a href="https://twitter.com/hashtag/e4everything?src=hash&amp;ref_src=twsrc%5Etfw">#e4everything</a> <a href="https://t.co/xcQg1ZVO0T">https://t.co/xcQg1ZVO0T</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1139377337835745283?ref_src=twsrc%5Etfw">June 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <span><a href="https://eamoses.github.io/blog/2019/06/06/vs-code.html" style="float:left;">Previous: VS Code</a><a href="https://eamoses.github.io/blog/2019/06/11/tba.html" style="float:right;">Next: TBD</a></span>
