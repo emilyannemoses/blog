@@ -39,7 +39,7 @@ This is a template and tutorial on how to integrate [Google's JavaScript Client 
 
 1. You will not be able to submit this app for verification for OAuth. This means when the OAuth window pops up for the user, it will always alert the user that this is not a verified app. This is because it is a demo app and Google does not verify demos. Here's my official privacy statement: [privacy](https://eamoses.github.io/privacy)
 
-  * To experience the authentication flow, go to `https://eamoses.github.io/oauth-react-demo` and do the following:
+  * To experience the authentication flow, go to [https://eamoses.github.io/oauth-react-demo](https://eamoses.github.io/oauth-react-demo) and do the following:
 
 <img src="{{site.baseurl}}/images/userauthflow.gif">
 
