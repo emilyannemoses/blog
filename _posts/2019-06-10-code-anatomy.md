@@ -44,4 +44,4 @@ E
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<span><a href="https://eamoses.github.io/blog/2019/06/06/vs-code.html" style="float:left;">Previous: VS Code</a><a href="https://eamoses.github.io/blog/2019/06/11/tba.html" style="float:right;">Next: TBD</a></span>
+<span><a href="https://eamoses.github.io/blog/2019/06/06/vs-code.html" style="float:left;">Previous: VS Code</a><a href="https://eamoses.github.io/blog/2019/06/16/basics-pt1.html" style="float:right;">Next: Back to basics part 1</a></span>
