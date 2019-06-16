@@ -13,17 +13,17 @@ Just like each spoken language has an alphabet, vocabulary, grammar, spelling, a
 
 - VARIABLE DECLARATIONS - `const`, `let`, `var`
 
-- LOGICAL OPERATORS - &&, ||, !
+- COMPARISON OPERATORS -  `==`, `===`, `<`, `>`, `!=`, `!==`, `<=`, `>=`
 
-- COMPARISON OPERATORS -  ==, ===, <, >, !=, !==, <=, >=
+- LOGICAL OPERATORS - `!`, `||`, `&&`
 
-- CONDITIONAL STATEMENT / SWITCH STATEMENT - `if(){}else{}` / `switch(){ case }`, `break`, `default`, `continue`, `return`
+- CONDITIONAL STATEMENT / SWITCH STATEMENT - `if(){}else{}` / `switch(){ case }`
 
 - LOOPS - `for`, `while`
 
-- FUNCTIONS - parameters, arguments, returns
+- FUNCTIONS - parameters, arguments, `break`, `default`, `continue`, `return`
 
-- Other Methods: console.log(), .map(), .filter(), .reduce()
+- Other Methods: `console.log()`, `console.table()`, `.map()`, `.filter()`, `.reduce()`
 
 - OBJECTS, MAPS, STRUCTS, INTERFACES
 
