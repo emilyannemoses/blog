@@ -24,7 +24,7 @@ Just like each spoken language has an alphabet, vocabulary, grammar, spelling, a
 - [FUNCTIONS][func] - parameters, arguments, `break`, `default`, `continue`, `return`
 
     - Other Methods: `console.log()`, `console.table()`, `.map()`, `.filter()`, `.reduce()`
-
+<br><br>
 - [OBJECTS - JavaScript][obj], MAPS, STRUCTS, [INTERFACES][interface]
 
 - [CONSTRUCTOR FUNCTIONS / CLASSES][class]
