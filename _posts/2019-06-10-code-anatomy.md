@@ -9,27 +9,27 @@ There are some basic building blocks to all programming languages. We've had an 
 
 Just like each spoken language has an alphabet, vocabulary, grammar, spelling, and meanings to words, each one of these programming languages has the following building blocks:
 
-- DATA TYPES - strings, numbers, boolean, arrays, objects(this)
+- [DATA TYPES][data-types] - strings, numbers, boolean, arrays, objects(this)
 
-- VARIABLE DECLARATIONS - `const`, `let`, `var`
+- [VARIABLE DECLARATIONS][go-variables] - `const`, `let`, `var`
 
-- COMPARISON OPERATORS -  `==`, `===`, `<`, `>`, `!=`, `!==`, `<=`, `>=`
+- [COMPARISON OPERATORS][comparison] -  `==`, `===`, `<`, `>`, `!=`, `!==`, `<=`, `>=`
 
-- LOGICAL OPERATORS - `!`, `||`, `&&`
+- [LOGICAL OPERATORS][logical] - `!`, `||`, `&&`
 
-- CONDITIONAL STATEMENT / SWITCH STATEMENT - `if(){}else{}` / `switch(){ case }`
+- [CONDITIONAL STATEMENT / SWITCH STATEMENT][conditionals] - `if(){}else{}` / `switch(){ case }`
 
-- LOOPS - `for`, `while`
+- [LOOPS][loops] - `for`, `while`
 
-- FUNCTIONS - parameters, arguments, `break`, `default`, `continue`, `return`
+- [FUNCTIONS][func] - parameters, arguments, `break`, `default`, `continue`, `return`
 
-- Other Methods: `console.log()`, `console.table()`, `.map()`, `.filter()`, `.reduce()`
+    - Other Methods: `console.log()`, `console.table()`, `.map()`, `.filter()`, `.reduce()`
 
-- OBJECTS, MAPS, STRUCTS, INTERFACES
+- [OBJECTS - JavaScript][obj], MAPS, STRUCTS, [INTERFACES][interface]
 
-- CONSTRUCTOR FUNCTIONS / CLASSES
+- [CONSTRUCTOR FUNCTIONS / CLASSES][class]
 
-- CONCURRENCY
+- [CONCURRENCY][concurrent]
 
 Over the next several posts I'll be breaking down each of these using the six languages I've previously introduced.
 
@@ -45,3 +45,25 @@ E
 
 
 <span><a href="https://eamoses.github.io/blog/2019/06/06/vs-code.html" style="float:left;">Previous: VS Code</a><a href="https://eamoses.github.io/blog/2019/06/16/basics-pt1.html" style="float:right;">Next: Back to basics part 1</a></span>
+
+[data-types]: https://en.wikipedia.org/wiki/Data_type#Primitive_data_types
+
+[go-variables]: https://gobyexample.com/variables
+
+[comparison]: https://www.codecademy.com/articles/fwd-js-comparison-logical
+
+[logical]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators
+
+[conditionals]: http://www2.lawrence.edu/fast/GREGGJ/CMSC150/013Decisions.html
+
+[loops]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+
+[func]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
+
+[class]: https://en.wikipedia.org/wiki/Class_(computer_programming)
+
+[interface]: https://golang.org/doc/effective_go.html#interfaces_and_types
+
+[obj]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+
+[concurrent]: https://en.wikipedia.org/wiki/Concurrency_(computer_science)
