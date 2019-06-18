@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Emily, a software engineer and human.
+I'm [Emily][Portfolio], a software engineer and human.
 
 Originally from Massachusetts, I moved to the San Francisco Bay Area to escape the snow ☃️. That's when I began learning the art of programming and working as a developer. I've since decided to move to Austin, Texas for a change of pace. I love Austin! 🌵
 
