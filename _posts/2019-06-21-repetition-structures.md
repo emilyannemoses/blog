@@ -3,10 +3,45 @@ layout: post
 title:  "Repetition Structures"
 ---
 
-With having to write programs that perform the same task multiple times over, it would be tedious to copy and paste the same code for as many times as you need to run it. That's where repetition structures come in.
+The need to have programs perform the same task multiple times over is common, and it would be tedious to copy and paste the same code for as many times as you need to run it. That's where repetition structures come in.
 
+<details>
+    <summary>The <code>while</code> loop</summary>
+        The <code>while</code> loop is a condition-controlled loop.
+    <br><br>
+    </details>
+<hr>
+<details>
+    <summary>The <code>for</code> loop</summary>
+        The <code>for</code> loop is a count-controlled loop.
+    <br><br>
+    </details>
+<hr>
+<details>
+    <summary>Using an <code>accumulator</code></summary>
+        Calculating a running total to show how an <code>accumulator</code> functions.
+    <br><br>
+    </details>
+<hr>
+<details>
+    <summary>Using a <code>sentinel</code></summary>
+        A <code>sentinel</code> is a special value that marks the end of a sequence of values.
+    <br><br>
+    </details>
+<hr>
+<details>
+    <summary>Input validation loops</summary>
+        A quick ditty on catching "bad" data before it enters the program.
+    <br><br>
+    </details>
+<hr>
+<details>
+    <summary>Nested loops</summary>
+        You can put loops inside of loops inside of loops inside of loops...
+    <br><br>
+    </details>
 
-
+<br>
 Happy coding!
 
 E
