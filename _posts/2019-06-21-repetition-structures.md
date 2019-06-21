@@ -98,7 +98,29 @@ The need to have programs perform the same task multiple times over is common, a
 <details>
     <br>
     <summary>Using an <code>accumulator</code></summary>
-        Calculating a running total to show how an <code>accumulator</code> functions.
+        Calculating a running total to show how an <code>accumulator</code> works. 
+
+        Introducing: Augmented Assignment Operators!
+
+        We've seen variables on the left, and values on the right, like so:
+        <br>
+        <code>x = 10</code>
+        <br>
+        But when we need to increment a variable, we have to put that variable on the right side of the equation as well:
+        <br>
+        <code>x = x + 10</code>
+        <br>
+        When we incorperate this into a loop, each iteration of the loop increments the value of <code>x</code> by 10.
+
+        {% highlight python %}
+        1 total = 0
+        2 for count in range(1, 6):
+        3    total = total + count
+        4 print(total) 
+        {% endhighlight %}
+        <br><br>
+        This code will continue to add the numbers 1-5 to total, which is set to 0 initially and eventually print out the single number 12.
+
     <br><br>
     </details>
 <hr>
