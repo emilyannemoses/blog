@@ -118,16 +118,8 @@ The need to have programs perform the same task multiple times over is common, a
         3    total = total + count
         4 print(total) 
         {% endhighlight %}
-        <br><br>
-        This code will continue to add the numbers 1-5 to total, which is set to 0 initially and eventually print out the single number 12.
+        This code will continue to add the numbers 1-5 to total, which is set to 0 initially and eventually print out the single number 15.
 
-    <br><br>
-    </details>
-<hr>
-<details>
-    <br>
-    <summary>Using a <code>sentinel</code></summary>
-        A <code>sentinel</code> is a special value that marks the end of a sequence of values.
     <br><br>
     </details>
 <hr>
@@ -135,6 +127,30 @@ The need to have programs perform the same task multiple times over is common, a
     <br>
     <summary>Input validation loops</summary>
         A quick ditty on catching "bad" data before it enters the program.
+
+        This will allow us to display an error message to the user if the program recieves incorrect or bad data.
+
+        {% highlight python %}
+        1 hours = int(input('Enter the hours worked this week: '))
+        2 rate = float(input('Enter the hourly pay rate: '))
+        3 gross_pay = hours * pay_rate
+        4  print('Gross pay: $', format(gross_pay, ',.2f'))
+        {% endhighlight %}
+
+        Here we're not checking to make sure the user doesn't enter an unreasonable number of hours worked per week, 400, for example. Since there are only 168 hours in a week, 400 hours worked in a week would be "bad" data.
+
+        {% highlight python %}
+        1 hours = int(input('Enter the hours worked this week: '))
+        2 if hours > 168:
+        3   print("You've entered too many hours!")
+        4 elif hours < 168:
+        5   rate = float(input('Enter the hourly pay rate: '))
+        6   if rate > 1000000:
+        7       print("You paid them too much!")
+        8   elif rate < 1000000:
+        9       gross_pay = hours * pay_rate
+        10 print('Gross pay: $', format(gross_pay, ',.2f'))
+        {% endhighlight %}
     <br><br>
     </details>
 <hr>
