@@ -158,6 +158,21 @@ The need to have programs perform the same task multiple times over is common, a
     <br>
     <summary>Nested loops</summary>
         You can put loops inside of loops inside of loops inside of loops...
+
+        Let's build a clock to showcase this one:
+
+        {% highlight python %}
+        1 for hours in range(60):
+        2   
+        3   for minutes in range(60):
+        4       
+        5       for seconds in range(60):
+        6           print(hours, ':' ,minutes, ':' ,seconds )
+        {% endhighlight %}
+
+        Run that code to see how it operates!
+
+        First, the inner loop goes through all of its iterations. That's why we see the <code>seconds</code> variable counting up to 60 first. Then minutes runs through, and then hours.
     <br><br>
     </details>
 
