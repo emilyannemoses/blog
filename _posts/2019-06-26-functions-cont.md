@@ -3,6 +3,16 @@ layout: post
 title:  "Functions continued"
 ---
 
+Learning how to use parameters and arguments, global variables, returning values and using Python modules.
+
+### Parameters and Arguments
+
+### Global variables and constants
+
+### Returning values
+
+### Python modules
+
 Happy coding!
 
 E

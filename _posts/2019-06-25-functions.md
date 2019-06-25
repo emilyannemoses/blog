@@ -3,6 +3,20 @@ layout: post
 title:  "Functions"
 ---
 
+A function groups together statements that perform the same task. Instead of repeating the same statement multiple times, we can wrap it up nicely in function syntax and control when the program executes.
+
+### Why use functions?
+
+### Anatomy of a function
+
+### Flowcharting is important!
+
+#### Hierarchy chart
+
+### Scope
+
+#### What is a local variable?
+
 Happy coding!
 
 E
