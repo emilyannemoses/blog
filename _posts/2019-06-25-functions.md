@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Functions"
+title:  "Anatomy of Functions"
 ---
 
 A function groups together statements that perform the same task. Instead of repeating the same statement multiple times, we can wrap it up nicely in function syntax and control when the program executes.

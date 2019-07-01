@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Functions continued"
+title:  "Physiology of Functions"
 ---
 
 Let's continue building out our burrito-making function using the flow chart from the last blog post. We'll be using parameters, arguments, global variables, constants and returning values.
