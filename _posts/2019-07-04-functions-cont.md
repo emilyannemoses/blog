@@ -9,7 +9,7 @@ Let's continue building out our burrito-making function using the flow chart fro
 
 These definitions are important! Parameters and Arguments have different functionality in a function. 
 
-Agnostic of language, an argument is a piece of data that is passed into a data **when the function is called** and a parameter is passed into a function **when the function is declared**
+Agnostic of language, an argument is a piece of data that is passed into a function **when the function is called** and a parameter is passed into a function **when the function is declared**
 
 ```python
 1 def choose_tortilla():
