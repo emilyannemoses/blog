@@ -51,7 +51,7 @@ This handy-dandy function takes two arguments, `1` and `Emily` and creates an ob
 
 There are **special** use cases for arrow functions. In my opinion, arrow functions should be reserved for these special cases and the regular old `function(){}` syntax should be used 99.9% of the time.
 
-## Array Manipulation
+**Array Manipulation**
 
 Let's taken array of objects:
 
@@ -72,7 +72,7 @@ console.log(prices); //[65, 180, 100]
 
 The same clean, concise syntax with the fat arrow can be used when utilizing `.reduce()` or `.filter()` array methods!
 
-## Promises and Callbacks
+**Promises and Callbacks**
 
 We could chain together promises by using anonymous function after anonymous function like so:
 
@@ -97,7 +97,7 @@ anAsyncFunc()
 
 Basically, it gives us a more streamlined view of what is happening in our code. 
 
-## This
+**This**
 
 When you have code with multiple nested functions it can be complicated to keep track of `this` in context. ES5 has methods to get around this, either by using the `.bind()` method *or* creating a closure within the very function by declaring `var self = this;` and continuing use of the variable `self` within the function.
 
