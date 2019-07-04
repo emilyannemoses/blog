@@ -53,7 +53,7 @@ There are **special** use cases for arrow functions. In my opinion, arrow functi
 
 **Array Manipulation**
 
-Let's taken array of objects:
+Let's take an array of objects:
 
 ```javascript
 const races = [
