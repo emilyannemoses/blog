@@ -135,4 +135,7 @@ E
 <h4>Got Questions❓, Comments 🗣 or Edits ✍</h4>
 <h5>Use the Twitter thread below and hashtag <a href="https://twitter.com/hashtag/e4everything?f=tweets&vertical=default&lang=en" target="_blank">#E4Everything</a> to get in touch with me regarding this blog post:</h5>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fat arrow =▶ functions⁉️ why and when to use them in <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <br><br>=▶=▶=▶<a href="https://t.co/GmVaYfO8K7">https://t.co/GmVaYfO8K7</a><br><br>=▶=▶=▶<a href="https://twitter.com/hashtag/WomenInTech?src=hash&amp;ref_src=twsrc%5Etfw">#WomenInTech</a> <a href="https://twitter.com/hashtag/Knowledgeispower?src=hash&amp;ref_src=twsrc%5Etfw">#Knowledgeispower</a> <br> <a href="https://twitter.com/hashtag/DEVcommunity?src=hash&amp;ref_src=twsrc%5Etfw">#DEVcommunity</a>  <a href="https://twitter.com/hashtag/e4everything?src=hash&amp;ref_src=twsrc%5Etfw">#e4everything</a> <a href="https://twitter.com/hashtag/webdevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#webdevelopment</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1147127994672013313?ref_src=twsrc%5Etfw">July 5, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <span><a href="https://eamoses.github.io/blog/2019/07/04/functions-cont.html" style="float:left;">Previous: Functions</a><a href="#" style="float:right;">Next: TBD</a></span>
