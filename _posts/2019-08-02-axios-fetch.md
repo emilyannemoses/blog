@@ -3,7 +3,7 @@ layout: post
 title:  "Making HTTP Requests"
 ---
 
-Here's how to use JavaScript `XMLHttp`, `fetch()`, `ajax`, `axios` or `isomorphic-fetch` to make HTTP requests!
+Here's how to use JavaScript's `XMLHttp`, `fetch()`, `ajax`, `axios` or `isomorphic-fetch` to make HTTP requests!
 
 It's easy, I promise.
 
