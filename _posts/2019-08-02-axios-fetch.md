@@ -85,7 +85,7 @@ fetchMe.addEventListener('click', function(){
 // Output must be json.stringified to be readable on UI
 ```
 
-Notice that each of these examples targets an element on the DOM - a button with a specific ID name which will be triggerd on-click. These examples can *only* be used DOM-side.
+Notice that each of these examples targets an element on the DOM - a button with a specific ID name which will be triggered on-click. These examples can *only* be used DOM-side.
 
 The following are some examples of how to do API requests server-side with NodeJS:
 
