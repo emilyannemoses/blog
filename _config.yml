@@ -9,7 +9,7 @@
 title: E is for Everything
 email: eamoses@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a creator, a connector and an educator. I teach software development at the Austin Coding Academy and I create my own software full-time.
+  I'm a creator, a connector and an educator. I'm a software engineer in civic engagement. I also teach software development at the Austin Coding Academy.
   I'm always seeking out new creative opportunities to work with good people 🚀
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://eamoses.github.io/" # the base hostname & protocol for your site
