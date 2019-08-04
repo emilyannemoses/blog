@@ -133,6 +133,8 @@ Word of warning, each of these are examples and shouldn't be use as-is in real p
 
 [Axios Docs](https://www.npmjs.com/package/axios)
 
+[Reference my GitHub Repo for Examples](https://github.com/eamoses/api-requests)
+
 Happy coding!
 
 E
