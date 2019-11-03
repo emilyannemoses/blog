@@ -7,7 +7,7 @@
    margin: 0;
    padding: 0;
  }
- 
+
  /**
   * Basic styling
   */
@@ -22,7 +22,7 @@
    font-feature-settings: "kern" 1;
    font-kerning: normal;
  }
- 
+
  /**
   * Set `margin-bottom` to maintain vertical rhythm
   */
@@ -32,7 +32,7 @@
  .highlight {
    margin-bottom: 15px;
  }
- 
+
  /**
   * Images
   */
@@ -40,37 +40,37 @@
    max-width: 100%;
    vertical-align: middle;
  }
- 
+
  /**
   * Figures
   */
  figure > img {
    display: block;
  }
- 
+
  figcaption {
    font-size: 14px;
  }
- 
+
  /**
   * Lists
   */
  ul, ol {
    margin-left: 30px;
  }
- 
+
  li > ul,
  li > ol {
    margin-bottom: 0;
  }
- 
+
  /**
   * Headings
   */
  h1, h2, h3, h4, h5, h6 {
    font-weight: 400;
  }
- 
+
  /**
   * Links
   */
@@ -85,7 +85,7 @@
    color: #111;
    text-decoration: underline;
  }
- 
+
  /**
   * Blockquotes
   */
@@ -100,7 +100,7 @@
  blockquote > :last-child {
    margin-bottom: 0;
  }
- 
+
  /**
   * Code formatting
   */
@@ -111,11 +111,11 @@
    border-radius: 3px;
    background-color: #eef;
  }
- 
+
  code {
    padding: 1px 5px;
  }
- 
+
  pre {
    padding: 8px 12px;
    overflow-x: auto;
@@ -125,7 +125,7 @@
    padding-right: 0;
    padding-left: 0;
  }
- 
+
  /**
   * Wrapper
   */
@@ -145,7 +145,7 @@
      padding-left: 15px;
    }
  }
- 
+
  /**
   * Clearfix
   */
@@ -154,7 +154,7 @@
    display: table;
    clear: both;
  }
- 
+
  /**
   * Icons
   */
@@ -167,7 +167,7 @@
  .icon > svg path {
    fill: #828282;
  }
- 
+
  /**
   * Site header
   */
@@ -177,7 +177,7 @@
    min-height: 56px;
    position: relative;
  }
- 
+
  .site-title {
    font-size: 26px;
    font-weight: 300;
@@ -189,7 +189,7 @@
  .site-title, .site-title:visited {
    color: #424242;
  }
- 
+
  .site-nav {
    float: right;
    line-height: 56px;
@@ -247,7 +247,7 @@
      margin-right: 0;
    }
  }
- 
+
  /**
   * Site footer
   */
@@ -255,52 +255,52 @@
    border-top: 1px solid #e8e8e8;
    padding: 30px 0;
  }
- 
+
  .footer-heading {
    font-size: 18px;
    margin-bottom: 15px;
  }
- 
+
  .contact-list,
  .social-media-list {
    list-style: none;
    margin-left: 0;
  }
- 
+
  .footer-col-wrapper {
    font-size: 15px;
    color: #828282;
    margin-left: -15px;
  }
- 
+
  .footer-col {
    float: left;
    margin-bottom: 15px;
    padding-left: 15px;
  }
- 
+
  .footer-col-1 {
    width: -webkit-calc(25% - (30px / 2));
    width: calc(25% - (30px / 2));
  }
- 
+
  .footer-col-2 {
    width: -webkit-calc(20% - (30px / 2));
    width: calc(25% - (30px / 2));
  }
- 
+
  .footer-col-3 {
    width: -webkit-calc(45% - (30px / 2));
    width: calc(45% - (30px / 2));
  }
- 
+
  @media screen and (max-width: 800px) {
    .footer-col-1,
  .footer-col-2 {
      width: -webkit-calc(50% - (30px / 2));
      width: calc(50% - (30px / 2));
    }
- 
+
    .footer-col-3 {
      width: -webkit-calc(100% - (30px / 2));
      width: calc(100% - (30px / 2));
@@ -319,11 +319,11 @@
  .page-content {
    padding: 30px 0;
  }
- 
+
  .page-heading {
    font-size: 20px;
  }
- 
+
  .post-list {
    margin-left: 0;
    list-style: none;
@@ -331,24 +331,24 @@
  .post-list > li {
    margin-bottom: 30px;
  }
- 
+
  .post-meta {
    font-size: 14px;
    color: #828282;
  }
- 
+
  .post-link {
    display: block;
    font-size: 24px;
  }
- 
+
  /**
   * Posts
   */
  .post-header {
    margin-bottom: 30px;
  }
- 
+
  .post-title {
    font-size: 42px;
    letter-spacing: -1px;
@@ -359,7 +359,7 @@
      font-size: 36px;
    }
  }
- 
+
  .post-content {
    margin-bottom: 30px;
  }
@@ -387,7 +387,7 @@
      font-size: 18px;
    }
  }
- 
+
  /**
   * Syntax highlighting styles
   */
@@ -588,4 +588,20 @@
  }
  .highlight .il {
    color: #099;
+ }
+
+ table {
+   font-family: Avenir, sans-serif;
+   border-collapse: collapse;
+   width: 100%;
+ }
+
+ td, th {
+   border: 1px solid #dddddd;
+   text-align: left;
+   padding: 8px;
+ }
+
+ tr:nth-child(even) {
+   background-color: #dddddd;
  }
