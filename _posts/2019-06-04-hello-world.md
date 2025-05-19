@@ -118,7 +118,7 @@ E
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<span><a href="https://eamoses.github.io/blog/2019/06/03/vocabulary-continued.html" style="float:left;">Previous: Vocabulary Continued</a><a href="https://eamoses.github.io/blog/2019/06/05/hello-world-continued.html" style="float:right;">Next: Hello world Continued</a></span>
+<span><a href="https://emilyannemoses.github.io/blog/2019/06/03/vocabulary-continued.html" style="float:left;">Previous: Vocabulary Continued</a><a href="https://emilyannemoses.github.io/blog/2019/06/05/hello-world-continued.html" style="float:right;">Next: Hello world Continued</a></span>
 
 [download-python]: https://www.python.org/downloads/release/python-373/
 

@@ -37,9 +37,9 @@ This is a template and tutorial on how to integrate [Google's JavaScript Client 
 
 ## Pre-notes
 
-1. You will not be able to submit this app for verification for OAuth. This means when the OAuth window pops up for the user, it will always alert the user that this is not a verified app. This is because it is a demo app and Google does not verify demos. Here's my official privacy statement: [privacy](https://eamoses.github.io/privacy)
+1. You will not be able to submit this app for verification for OAuth. This means when the OAuth window pops up for the user, it will always alert the user that this is not a verified app. This is because it is a demo app and Google does not verify demos. Here's my official privacy statement: [privacy](https://emilyannemoses.github.io/privacy)
 
-    * To experience the authentication flow, go to [https://eamoses.github.io/oauth-react-demo](https://eamoses.github.io/oauth-react-demo) and do the following:
+    * To experience the authentication flow, go to [https://emilyannemoses.github.io/oauth-react-demo](https://emilyannemoses.github.io/oauth-react-demo) and do the following:
 
     <img src="{{site.baseurl}}/images/userauthflow.gif">
 
@@ -202,7 +202,7 @@ updateSigninStatus = () => {
 
 # 23-52
 
-The `setSigninStatus()` is the workhorse function here. `isAuthorized` comes in from the Google API once the user has been authorized (or not) and we can set the state of the React app within this conditional. If the user is authorized, save their name and hold that value in variables we can apply to the DOM.  The `fullName` variable saves the users full name, no spaces, all lowercase so it can by applied to their unique user page URL such as `https://eamoses.github.io/u/emilymoses`
+The `setSigninStatus()` is the workhorse function here. `isAuthorized` comes in from the Google API once the user has been authorized (or not) and we can set the state of the React app within this conditional. If the user is authorized, save their name and hold that value in variables we can apply to the DOM.  The `fullName` variable saves the users full name, no spaces, all lowercase so it can by applied to their unique user page URL such as `https://emilyannemoses.github.io/u/emilymoses`
 
 This also changes the appearence of the sign in/out button, whether or not the user is signed in. It will only display the revoke-access button if the user is signed in and authorized as well. This function can be tailored to your specific needs by you.
 
@@ -417,7 +417,7 @@ function Header() {
                 <div id="revoke-access-button" className="footer">Revoke access</div>
                 <Link to="/about" className="footer">About</Link>
                 <Link to="/contact" className="footer">Contact</Link>
-                <a href="http://github.com/eamoses" className="footer">&copy; 2019 Emily Anne Moses</a>
+                <a href="http://github.com/emilyannemoses" className="footer">&copy; 2019 Emily Anne Moses</a>
             </header>
         </div>
     )
@@ -530,7 +530,7 @@ E
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Want to tackle <a href="https://twitter.com/googleapi?ref_src=twsrc%5Etfw">@googleapi</a>&#39;s Client Side OAuth 2.0 with <a href="https://twitter.com/reactjs?ref_src=twsrc%5Etfw">@reactjs</a>? I laid it all out (more or less) in this article<br><br>***<a href="https://twitter.com/hashtag/e4everything?src=hash&amp;ref_src=twsrc%5Etfw">#e4everything</a> <a href="https://twitter.com/hashtag/googleoauth?src=hash&amp;ref_src=twsrc%5Etfw">#googleoauth</a> <a href="https://twitter.com/hashtag/learntocode?src=hash&amp;ref_src=twsrc%5Etfw">#learntocode</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a> <a href="https://twitter.com/hashtag/reactjs?src=hash&amp;ref_src=twsrc%5Etfw">#reactjs</a> <a href="https://twitter.com/hashtag/webdev?src=hash&amp;ref_src=twsrc%5Etfw">#webdev</a> <a href="https://twitter.com/hashtag/codinglife?src=hash&amp;ref_src=twsrc%5Etfw">#codinglife</a> <br><br>***<a href="https://t.co/ev5RtXaJLM">https://t.co/ev5RtXaJLM</a> <a href="https://t.co/HgCL6mMoUi">pic.twitter.com/HgCL6mMoUi</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1140994681318334467?ref_src=twsrc%5Etfw">June 18, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<span><a href="https://eamoses.github.io/blog/2019/06/17/basics-pt2.html" style="float:left;">Previous: Basics - Part 2</a><a href="https://eamoses.github.io/blog/2019/06/21/repetition-structures.html" style="float:right;">Next: Repetition Structures</a></span>
+<span><a href="https://emilyannemoses.github.io/blog/2019/06/17/basics-pt2.html" style="float:left;">Previous: Basics - Part 2</a><a href="https://emilyannemoses.github.io/blog/2019/06/21/repetition-structures.html" style="float:right;">Next: Repetition Structures</a></span>
 
 [oauth]: https://developers.google.com/identity/protocols/OAuth2UserAgent
 [react]: https://reactjs.org/

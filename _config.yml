@@ -7,13 +7,13 @@
 
 # Site settings
 title: E is for Everything
-email: eamoses@gmail.com
+email: e.a.moses@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a creator, a connector and I work as a software engineer in civic engagement. 🚀
+  I'm a creator, a connector and I work as a software engineer. 🚀
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://eamoses.github.io/" # the base hostname & protocol for your site
+url: "https://emilyannemoses.github.io/" # the base hostname & protocol for your site
 twitter_username: emilyannemoses
-github_username:  eamoses
+github_username:  emilyannemoses
 instagram_username: emilyannemoses
 
 # Build settings

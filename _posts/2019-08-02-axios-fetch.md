@@ -21,7 +21,7 @@ With the advent of ES6, JavaScript's Fetch API provides more powerful and flexib
 
 Examples:
 
-If you follow [this link](https://eamoses.github.io/api-requests/) to this live site in another tab, you'll see a user can interact with the browser to make a call to an API.  The first button is triggering an XMLHttpRequest.
+If you follow [this link](https://emilyannemoses.github.io/api-requests/) to this live site in another tab, you'll see a user can interact with the browser to make a call to an API.  The first button is triggering an XMLHttpRequest.
 
 `XMLHttpRequest()`:
 
@@ -133,7 +133,7 @@ Word of warning, each of these are examples and shouldn't be use as-is in real p
 
 [Axios Docs](https://www.npmjs.com/package/axios)
 
-[Reference my GitHub Repo for Examples](https://github.com/eamoses/api-requests)
+[Reference my GitHub Repo for Examples](https://github.com/emilyannemoses/api-requests)
 
 Happy coding!
 
@@ -144,4 +144,4 @@ E
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wrote some words on various ways to make API requests in <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> . I chose to implement the DOM Fetch API, XMLHttpResponse, Ajax and Axios in <a href="https://twitter.com/hashtag/NodeJS?src=hash&amp;ref_src=twsrc%5Etfw">#NodeJS</a> <a href="https://twitter.com/hashtag/womenintech?src=hash&amp;ref_src=twsrc%5Etfw">#womenintech</a> <a href="https://twitter.com/hashtag/womenwhocode?src=hash&amp;ref_src=twsrc%5Etfw">#womenwhocode</a> <a href="https://twitter.com/hashtag/e4everything?src=hash&amp;ref_src=twsrc%5Etfw">#e4everything</a> <a href="https://twitter.com/hashtag/learntocode?src=hash&amp;ref_src=twsrc%5Etfw">#learntocode</a> <a href="https://twitter.com/hashtag/webdevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#webdevelopment</a> <a href="https://twitter.com/hashtag/webdev?src=hash&amp;ref_src=twsrc%5Etfw">#webdev</a> <a href="https://twitter.com/hashtag/code?src=hash&amp;ref_src=twsrc%5Etfw">#code</a> <a href="https://t.co/R4LjfLTAAl">https://t.co/R4LjfLTAAl</a></p>&mdash; Emily Anne Moses (@emilyannemoses) <a href="https://twitter.com/emilyannemoses/status/1157838646336204800?ref_src=twsrc%5Etfw">August 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<span><a href="https://eamoses.github.io/blog/2019/07/23/naming.html" style="float:left;">Previous: Naming Things</a><a href="https://eamoses.github.io/blog/2019/09/05/cookies.html" style="float:right;">Next: Cookies</a></span>
+<span><a href="https://emilyannemoses.github.io/blog/2019/07/23/naming.html" style="float:left;">Previous: Naming Things</a><a href="https://emilyannemoses.github.io/blog/2019/09/05/cookies.html" style="float:right;">Next: Cookies</a></span>

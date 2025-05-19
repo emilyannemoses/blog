@@ -162,7 +162,7 @@ E
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<span><a href="https://eamoses.github.io/blog/2019/06/04/hello-world.html" style="float:left;">Previous: Hello world</a><a href="https://eamoses.github.io/blog/2019/06/06/vs-code.html" style="float:right;">Next: VS Code</a></span>
+<span><a href="https://emilyannemoses.github.io/blog/2019/06/04/hello-world.html" style="float:left;">Previous: Hello world</a><a href="https://emilyannemoses.github.io/blog/2019/06/06/vs-code.html" style="float:right;">Next: VS Code</a></span>
 
-[vscode]: https://eamoses.github.io/blog/2019/06/06/vs-code.html
+[vscode]: https://emilyannemoses.github.io/blog/2019/06/06/vs-code.html
 [download-dotnet]: https://download.visualstudio.microsoft.com/download/pr/b4e6bfc6-1843-4154-8b5a-6bd85702df16/270d40a3ede0b72d3f0b801bf103ea96/dotnet-sdk-2.2.107-osx-gs-x64.pkg
